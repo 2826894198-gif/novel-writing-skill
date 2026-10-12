@@ -1,0 +1,149 @@
+{
+  "template_version": "0.1",
+  "book_id": null,
+  "chapter_id": null,
+  "revision_id": null,
+  "hash_method": null,
+  "input_document_sha256": null,
+  "output_document_sha256": null,
+  "prewrite_sources": [],
+  "critical_gaps": [],
+  "checks": [
+    {
+      "id": "SC01",
+      "dimension": "硬事实",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC02",
+      "dimension": "上下承接",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC03",
+      "dimension": "知情与动机",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC04",
+      "dimension": "因果",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC05",
+      "dimension": "物件金钱空间",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC06",
+      "dimension": "设定兑现",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC07",
+      "dimension": "语言与年代",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC08",
+      "dimension": "重复",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC09",
+      "dimension": "本书风格",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC10",
+      "dimension": "章末承诺",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    },
+    {
+      "id": "SC11",
+      "dimension": "格式与字数",
+      "status": "pending",
+      "evidence": [],
+      "actual_corrections": [],
+      "remaining_uncertainty": [],
+      "unresolved_hard_issue": null
+    }
+  ],
+  "regression": {
+    "changed_facts": [],
+    "search_terms": [],
+    "existing_affected_chapters": [],
+    "review_results": [],
+    "next_chapter_exists": null,
+    "unwritten_next_status": "预期承接，待验证",
+    "new_hash_rechecked": false
+  },
+  "fact_update": {
+    "candidate_ids": [],
+    "accepted_ids": [],
+    "adoption_basis": null,
+    "delta_reviewed_with_output_hash": false,
+    "commit_status": "not_started",
+    "manuscript_index_ledger_consistent": false
+  },
+  "gate": {
+    "all_checks_completed": false,
+    "evidence_supports_passes": false,
+    "hash_matches_review": false,
+    "unresolved_hard_issues": null,
+    "ready_for_review": false
+  },
+  "statuses": {
+    "self_review": "pending",
+    "project_adoption": "pending",
+    "user_approval": "not_claimed",
+    "platform_save": "not_attempted",
+    "publication": "not_attempted"
+  },
+  "readable_summary": {
+    "conclusion": null,
+    "evidence_scope": null,
+    "actual_changes": null,
+    "uncertainty_and_handoff": null
+  }
+}

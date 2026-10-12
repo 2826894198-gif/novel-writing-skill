@@ -1,0 +1,35 @@
+{
+  "template_version": "0.1",
+  "fact_id": null,
+  "book_id": null,
+  "kind": null,
+  "statement": null,
+  "adoption_status": "candidate",
+  "effective_from": null,
+  "effective_until": null,
+  "revealed_at": null,
+  "known_by": [
+    {
+      "character": null,
+      "learned_at": null,
+      "method": null,
+      "source": null,
+      "certainty": null
+    }
+  ],
+  "sources": [
+    {
+      "chapter_id": null,
+      "revision": null,
+      "document_sha256": null,
+      "location": null,
+      "evidence": null
+    }
+  ],
+  "current_view_as_of": null,
+  "plan_owner_and_status": null,
+  "uncertainty": null,
+  "replaces_fact_id": null,
+  "dependent_chapters": [],
+  "acceptance_basis": null
+}
