@@ -2,7 +2,7 @@
 name: serial-fiction-writing
 description: 续写或修订中文长篇、连载小说，按需进行阶段剧情、人物关系、逐章连续性与读者反馈核验。适用于已有正文与分书指导的持续创作，不代替作品发布授权。
 metadata:
-  version: "0.2.0"
+  version: "0.2.1"
 ---
 
 # 长篇逐章写作
@@ -25,6 +25,7 @@ metadata:
 - 每章写前：用 [事实与状态](references/continuity.md) 与 [场景与风格](references/scene-and-style.md) → 轻量场景卡 → 核前章后果、角色知情与约定，只加载相关资料
 - 每章写后及改后：执行 [验收与修订](references/review-and-revision.md) → 同hash审查与事实delta → 11项证据、硬错修复、相关旧章回归；未知后章只记待验证
 - 采纳、恢复、设定变更或批次收尾：读 [持续运行](references/operations.md) → 一致提交与当前状态记录 → 核正文、索引、账本和未完事项
+- 发现漏检、同类错误复现或整理经验：读 [缺陷回归](references/error-regression.md) → 项目侧最小缺陷条目与针对性回归 → 区分规则缺失和执行遗漏，不把每个案例变成每章必填表
 - 有实际反馈或要比较写法：读 [反馈与验证](references/reader-feedback.md) → 定位到版本的最小修改试验 → 区分编辑判断、AI模拟、真人反馈与平台数据，不以自评分证明收益
 
 ## 一章闭环与边界
