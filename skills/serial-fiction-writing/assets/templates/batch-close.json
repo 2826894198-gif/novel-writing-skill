@@ -1,0 +1,35 @@
+{
+  "template_version": "0.2.0",
+  "batch_id": null,
+  "scope": null,
+  "adoption_authority_reference": null,
+  "chapters": [
+    {
+      "chapter_id": null,
+      "output_document_sha256": null,
+      "hash_method": null,
+      "completed_review_reference": null,
+      "review_covers_current_dependencies": false,
+      "adoption_reference": null,
+      "delta_reference": null,
+      "commit_status": "not_checked"
+    }
+  ],
+  "current_state_entry": null,
+  "superseded_snapshot_references": [],
+  "manuscript_index_ledger_consistent": false,
+  "reconciled_pending_markers": [],
+  "unresolved_issues": [],
+  "scene_group_review": null,
+  "open_promises": [],
+  "next_step_and_dependencies": null,
+  "readback_verified": false,
+  "statuses": {
+    "project_adoption": "not_checked",
+    "user_final_review": "not_claimed",
+    "external_sync": "not_verified",
+    "platform_save": "not_attempted",
+    "platform_review": "not_attempted",
+    "publication": "not_attempted"
+  }
+}

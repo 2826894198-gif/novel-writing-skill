@@ -1,5 +1,5 @@
 {
-  "template_version": "0.1",
+  "template_version": "0.2.0",
   "book_id": null,
   "chapter_id": null,
   "revision_id": null,
@@ -124,7 +124,8 @@
     "adoption_basis": null,
     "delta_reviewed_with_output_hash": false,
     "commit_status": "not_started",
-    "manuscript_index_ledger_consistent": false
+    "manuscript_index_ledger_consistent": false,
+    "adoption_authority_reference": null
   },
   "gate": {
     "all_checks_completed": false,
@@ -138,7 +139,8 @@
     "project_adoption": "pending",
     "user_approval": "not_claimed",
     "platform_save": "not_attempted",
-    "publication": "not_attempted"
+    "publication": "not_attempted",
+    "platform_review": "not_attempted"
   },
   "readable_summary": {
     "conclusion": null,
