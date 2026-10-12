@@ -2,7 +2,7 @@
 name: serial-fiction-writing
 description: 续写或修订中文长篇、连载小说，按需进行阶段剧情、人物关系、逐章连续性与读者反馈核验。适用于已有正文与分书指导的持续创作，不代替作品发布授权。
 metadata:
-  version: "0.3.0"
+  version: "0.3.1"
 ---
 
 # 长篇逐章写作
