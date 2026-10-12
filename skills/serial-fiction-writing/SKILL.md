@@ -2,7 +2,7 @@
 name: serial-fiction-writing
 description: 续写或修订中文长篇、连载小说，按需进行阶段剧情、人物关系、逐章连续性与读者反馈核验。适用于已有正文与分书指导的持续创作，不代替作品发布授权。
 metadata:
-  version: "0.2.1"
+  version: "0.3.0"
 ---
 
 # 长篇逐章写作
@@ -19,6 +19,8 @@ metadata:
 
 不要每章读取全部资料。相关规则已读且未变时，只载入本章依赖及变化；以下各项给出调用、产出与检验。
 
+隔离段落实验不走整章闭环：只核受影响事实、人物、视角和措辞，不更新正式档案或事实台账，也不冒称完成全章自检；正式采纳进章节后仍须全章检查和台账更新。适用边界见 [验收与修订](references/review-and-revision.md)。
+
 - 首次接入或底座缺失：读 [项目接入](references/project-context.md) → 建有效索引及最小底座 → 核来源、hash口径和权限；不重建已有资料
 - 新阶段、节点结束或反复停滞：读 [阶段与追读](references/stage-and-reader-promise.md) → 一张简短阶段卡 → 核具体期待、真实变化和题材承诺；日常小修跳过
 - 重要人物选择、成长或关系变化：读 [人物与关系](references/character-and-relationship.md) → 在原档案补必要变化 → 核选择、双方回应与证据；不另建平行人物库
@@ -26,6 +28,7 @@ metadata:
 - 每章写后及改后：执行 [验收与修订](references/review-and-revision.md) → 同hash审查与事实delta → 11项证据、硬错修复、相关旧章回归；未知后章只记待验证
 - 采纳、恢复、设定变更或批次收尾：读 [持续运行](references/operations.md) → 一致提交与当前状态记录 → 核正文、索引、账本和未完事项
 - 发现漏检、同类错误复现或整理经验：读 [缺陷回归](references/error-regression.md) → 项目侧最小缺陷条目与针对性回归 → 区分规则缺失和执行遗漏，不把每个案例变成每章必填表
+- 关键场景缺少具体情绪回报、需要寻找写法：按需读 [情绪技巧库](references/emotional-techniques.md) 的需求索引与相关卡 → 在原场景卡补期待、选择、回应及后果 → 用已有SC检查；没有适合卡可正常写，不设逐章配额。实际使用与效果分开记录，必要时用 [技巧试验](assets/templates/emotion-technique-trial.md)
 - 有实际反馈或要比较写法：读 [反馈与验证](references/reader-feedback.md) → 定位到版本的最小修改试验 → 区分编辑判断、AI模拟、真人反馈与平台数据，不以自评分证明收益
 
 ## 一章闭环与边界

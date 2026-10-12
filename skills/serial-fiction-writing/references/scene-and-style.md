@@ -25,3 +25,5 @@
 
 
 阶段问题不清或场景功能反复时才转 [阶段与追读](stage-and-reader-promise.md)；关键人物选择或关系进展缺少行动证据时才转 [人物与关系](character-and-relationship.md)。常规写章不必重读两份完整规范。
+
+情绪目标明确但执行偏平时，按需看 [情绪技巧库](emotional-techniques.md) 的相关卡；先验证前提，再用，不把每个场景变成技巧展示。
