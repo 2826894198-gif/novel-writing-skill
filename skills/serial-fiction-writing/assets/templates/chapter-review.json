@@ -1,5 +1,5 @@
 {
-  "template_version": "0.2.0",
+  "template_version": "0.4.0",
   "book_id": null,
   "chapter_id": null,
   "revision_id": null,
@@ -109,6 +109,17 @@
       "unresolved_hard_issue": null
     }
   ],
+  "reading_effect": {
+    "applicability": null,
+    "manuscript_read_scope": [],
+    "continue_reading_evidence": [],
+    "attention_loss_evidence": [],
+    "character_choice_and_response": [],
+    "promise_delivery_evidence": [],
+    "editorial_conclusion": "pending",
+    "evidence_type": "editorial_judgment_not_platform_result",
+    "remaining_uncertainty": []
+  },
   "regression": {
     "changed_facts": [],
     "search_terms": [],
