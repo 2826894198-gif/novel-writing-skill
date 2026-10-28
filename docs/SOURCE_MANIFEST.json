@@ -97,16 +97,6 @@
       "sha256": "aea1a9da3e3434938be115281c3403ccd1d46588705b35badc8d9caf59da4c06"
     },
     {
-      "path": "examples/projects/demo-story/README.md",
-      "bytes": 136,
-      "sha256": "920198d8a8c41982fa45fd66a9a731503b25afe64c9eb01f5807a9442f88b523"
-    },
-    {
-      "path": "examples/projects/demo-story/数据评估.md",
-      "bytes": 520,
-      "sha256": "646e0ea60683de35f854e9b65db33b3ca5eabbba5e2612a466d7a12223191880"
-    },
-    {
       "path": "examples/平台数据模板.csv",
       "bytes": 242,
       "sha256": "e73c58d14414e31653615346aca4228202654cc8a3839477f9a75352af086db0"
