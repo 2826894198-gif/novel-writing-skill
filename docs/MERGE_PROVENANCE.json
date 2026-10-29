@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-29",
+  "sources": [
+    {
+      "repository": "novel-writing-skill",
+      "approvedCommit": "1f6f9db88470c636d8d986797198aa2f5c5a2736",
+      "approvedDate": "2026-10-28"
+    },
+    {
+      "repository": "fiction-studio-toolkit",
+      "approvedCommit": "fc9fe5832d47643daa77d349d40e4d597f29a42f",
+      "approvedDate": "2026-10-28"
+    }
+  ],
+  "scope": "Previously reviewed public source exports and synthetic examples; no original private workspace data."
+}

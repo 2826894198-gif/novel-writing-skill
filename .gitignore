@@ -43,3 +43,7 @@ data/private/
 Thumbs.db
 .idea/
 .vscode/
+
+# Keep the synthetic toolkit fixture while ignoring private project folders.
+!tools/studio-toolkit/examples/projects/
+!tools/studio-toolkit/examples/projects/**
