@@ -8,4 +8,3 @@
 # 合并补充说明
 
 `tools/studio-toolkit/` 保留其 [独立权利说明](tools/studio-toolkit/RIGHTS.md) 与 [上游许可](tools/studio-toolkit/00_长篇写作系统/UPSTREAM-LICENSE.txt)。完整外部 oh-story 技能不随本仓库分发，上游许可不自动覆盖其他内容。
-
